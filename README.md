@@ -1,6 +1,7 @@
 # **Interactive Dashboard for Forgotten Florida Race Data Analysis**
 
 ---
+![Looker Dashboard](https://github.com/rasadariranasinghe/Forgotten-Florida-Race-Data-Analysis/blob/main/assets/dashboard.png)
 
 ## **Overview**
 
